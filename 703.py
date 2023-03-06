@@ -1,1 +1,0 @@
-print("%dplus%d = Gwi yo mi"(1,1))
